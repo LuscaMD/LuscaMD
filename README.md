@@ -1,12 +1,13 @@
-<h1 align="center">Welcome!!<h1/>
+<h1 align="center">Welcome!!</h1>
 
-## About me
+## About me:
 
-<a href="#">
-    <img src="gif/readmegif.gif" align="center" height="200px">
-</a>
+<p align="center">
+    <img src="gif/readme.gif">
+</p>
 
 🎈 I like music, programming and studying.
+<br>
 📘 I'm currently learning C# and JavaScript.
 
 ## Social Media:
@@ -14,13 +15,7 @@
 <a href="https://github.com/LuscaMD">
     <img src="https://img.shields.io/github/followers/LuscaMD?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
-
 <br>
-<br>
-
 <a href="https://www.linkedin.com/in/lucasdechechi/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn">
 </a>
-
-
-
