@@ -2,9 +2,9 @@
 
 ## About me
 
-<a href="#" >
-    <img src="gif/readmegif.gif" align="middle" width="100%">
-</a>
+<p align="center">
+    <img src="gif/readmegif.gif" width="75%">
+</p>
 
 🎈 I like music, programming and studying.
 <br>
@@ -19,6 +19,4 @@
 <a href="https://www.linkedin.com/in/lucasdechechi/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn">
 </a>
-
-
 
