@@ -24,7 +24,6 @@
 </p>
 -->
 
-📘 Atualmente estudando JavaScript ES6
 
 #
 
