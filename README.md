@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Desenvolvedor de software com mais de 2 anos de experiência em C#, VB.NET, VBA, VB6, SQL e T-SQL (SQL Server). Atuei na criação e manutenção de APIs, além de participar ativamente na criação e migração de formulários legados com Windows Forms. Trabalhei em equipes ágeis utilizando a metodologia Scrum e sou proficiente em ferramentas de versionamento como TFS (Team Foundation Service) e Git.</p>
+<p align="left">Desenvolvedor de software com mais de 2 anos de experiência em C#, VB.NET, VBA, VB6, SQL e T-SQL (SQL Server). Atualmente, estou aprofundando meus conhecimentos em C# e Angular através de estudos autônomos. Atuei na criação e manutenção de APIs, além de participar ativamente na criação e migração de formulários legados com Windows Forms. Trabalhei em equipes ágeis utilizando a metodologia Scrum e sou proficiente em ferramentas de versionamento como TFS (Team Foundation Service) e Git. Buscando novas oportunidades para aplicar minhas habilidades e contribuir para projetos desafiadores.</p>
 
 ###
 
-<p align="left">🤓 Criando soluções (e alguns bugs) desde 2020<br>📚 Estudando: C#, Java e Angular<br>🎯 Metas: Ficar fluente em inglês e aprimorar minhas habilidades em desenvolvimento full-stack</p>
+<p align="left">🤓 Criando soluções (e alguns bugs) desde 2020<br>📚 Estudando: C# e Angular<br>🎯 Metas: Ficar fluente em inglês e aprimorar minhas habilidades em desenvolvimento full-stack</p>
 
 ###
 
